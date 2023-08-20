@@ -27,8 +27,7 @@ var JunScanner = /*#__PURE__*/_createClass(function JunScanner(selector, opts) {
     scanArea: {
       width: 250,
       height: 250
-    },
-    supportScanTypes: ['QR_CODE']
+    }
   };
 });
 /******/ 	return __webpack_exports__;

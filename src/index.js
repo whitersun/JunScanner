@@ -8,7 +8,6 @@ class JunScanner {
                 width: 250,
                 height: 250
             },
-            supportScanTypes: ['QR_CODE']
         }
     }
 }
